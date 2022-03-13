@@ -13,7 +13,7 @@ using System.IO;
 using System.Diagnostics;
 
 
-//[module:CLSCompliant(true)]
+//[module:CLSCompliant(false)]
 namespace DGVPrinterHelper //AllocationRequest
 {
     #region Supporting Classes
